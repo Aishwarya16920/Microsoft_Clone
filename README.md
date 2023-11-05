@@ -5,4 +5,3 @@ This project is a web application designed to mimic the look and feel of Microso
 **Technologies Used:**
    - **HTML:** 
    - **CSS:**
-   - **JavaScript:** 
